@@ -1,0 +1,3 @@
+
+void LCD();
+void objectIndication();
